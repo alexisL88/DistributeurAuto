@@ -12,7 +12,7 @@
   
   <Recipe Name="Capuccino"><!---->
       <Ingredient Name="Café"      Quantity="1"/>
-      <Ingredient Name="Chocolat2"  Quantity="1"/>
+      <Ingredient Name="Chocolat"  Quantity="1"/>
       <Ingredient Name="Eau"       Quantity="2"/>
       <Ingredient Name="Crème"     Quantity="1"/>    
   </Recipe>
