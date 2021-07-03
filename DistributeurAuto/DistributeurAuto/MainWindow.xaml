@@ -1,0 +1,35 @@
+﻿<Window x:Class="DistributeurAuto.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DistributeurAuto"  
+        xmlns:res="clr-namespace:DistributeurAuto.Resources"
+        d:DataContext="{d:DesignInstance local:DrinksDispenser}"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="400*"/>
+        </Grid.RowDefinitions>
+        
+        <TextBlock Grid.Column="0" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Width="40"
+                   Text="{x:Static res:Resource1.Drinks}" 
+        />
+        <ComboBox Grid.Column="0" Grid.Row="1" VerticalAlignment="Top" Height="22" 
+                  ItemsSource="{Binding Recipes, Mode=OneWay}" DisplayMemberPath="Name" SelectedItem="{Binding SelectedRecipe, Mode=TwoWay}"
+        />
+
+        <TextBlock Grid.Column="1" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center" Height="15" Width="40"
+                   Text="{x:Static res:Resource1.Price}" 
+        />
+        <TextBlock Grid.Column="1" Grid.Row="1" HorizontalAlignment="Center" VerticalAlignment="Top" Height="22" Margin="-20,0,0,0"
+                  Text="{Binding SelectedRecipe.Price, Mode=OneWay}"
+        />
+    </Grid>
+</Window>

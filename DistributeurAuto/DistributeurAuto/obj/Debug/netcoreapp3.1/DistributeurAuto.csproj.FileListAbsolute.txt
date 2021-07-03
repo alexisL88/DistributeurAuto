@@ -1,0 +1,25 @@
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto_MarkupCompile.cache
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto_MarkupCompile.lref
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.exe
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.deps.json
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.runtimeconfig.json
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.runtimeconfig.dev.json
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.dll
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\DistributeurAuto.pdb
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.g.resources
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.AssemblyInfoInputs.cache
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.AssemblyInfo.cs
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.csproj.CoreCompileInputs.cache
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.dll
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.pdb
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.genruntimeconfig.cache
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto_Content.g.cs
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\Xml Data\Marge.xml
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\Xml Data\Product.xml
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\bin\Debug\netcoreapp3.1\Xml Data\Recipes.xml
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.csproj.GenerateResource.cache
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.Resources.Resource1.resources
+C:\Users\alexis\source\repos\DistributeurAuto\DistributeurAuto\obj\Debug\netcoreapp3.1\DistributeurAuto.csprojAssemblyReference.cache

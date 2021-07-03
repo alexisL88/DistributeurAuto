@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Name>Café</Name>
+    <Price>1</Price>
+  </Product>
+  <Product>
+    <Name>Sucre</Name>
+    <Price>0.1</Price>
+  
+</Product>
+  <Product>
+    <Name>Crème</Name>
+    <Price>0.5</Price>
+
+  </Product>
+  <Product>
+    <Name>Thé</Name>
+    <Price>2</Price>
+
+  </Product>
+  <Product>
+    <Name>Eau</Name>
+    <Price>0.2</Price>
+  </Product>
+  <Product>
+    <Name>Chocolat</Name>
+    <Price>1</Price>
+  
+</Product>
+  <Product>
+    <Name>Lait</Name>
+    <Price>0.4</Price>
+  
+</Product>
+</ArrayOfProduct>

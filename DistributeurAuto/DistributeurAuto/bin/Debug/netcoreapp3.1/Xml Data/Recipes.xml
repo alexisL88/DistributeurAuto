@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ArrayOfRecipe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Recipe Name="Expresso"><!---->
+      <Ingredient Name="Café"  Quantity="1"/>
+      <Ingredient Name="Eau"   Quantity="1"/>
+  </Recipe>
+  
+  <Recipe Name="Allongé"><!---->
+        <Ingredient Name="Café"  Quantity="1"/>
+        <Ingredient Name="Eau"   Quantity="2"/>
+  </Recipe>
+  
+  <Recipe Name="Capuccino"><!---->
+      <Ingredient Name="Café"      Quantity="1"/>
+      <Ingredient Name="Chocolat2"  Quantity="1"/>
+      <Ingredient Name="Eau"       Quantity="2"/>
+      <Ingredient Name="Crème"     Quantity="1"/>    
+  </Recipe>
+  
+ <Recipe Name="Chocolat">
+      <Ingredient Name="Chocolat"  Quantity="3"/>
+      <Ingredient Name="Lait"      Quantity="2"/>
+      <Ingredient Name="Eau"       Quantity="1"/>
+      <Ingredient Name="Sucre"     Quantity="1"/>
+  </Recipe>
+  <Recipe Name="The">
+      <Ingredient Name="Thé"   Quantity="1"/>
+      <Ingredient Name="Eau"   Quantity="2"/>
+  </Recipe>
+</ArrayOfRecipe>
